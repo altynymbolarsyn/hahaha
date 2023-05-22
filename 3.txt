@@ -15,7 +15,7 @@ Registration Page
 <label> Lastname: </label>       
 <input type="text" name="lastname" size="15"/> <br> <br>
 
-<label> 
+<label> gah
 Course :
 </label> 
 <select>
